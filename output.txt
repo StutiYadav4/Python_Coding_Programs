@@ -1,0 +1,11 @@
+word		special character
+
+name@		@
+
+i$s		$
+
+s%tut&i		%
+
+s%tut&i		&
+
+yadav*		*
