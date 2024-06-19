@@ -1,0 +1,6 @@
+Query				Status				Failure Reason
+"create table Stuti.Public.Student2(emp_id int,name varchar(20),age int)",Failure,"com.snowflake.client.jdbc.SnowflakeSQLException: SQL compilation error:
+Object 'STUTI.PUBLIC.STUDENT2' already exists."
+"create table Stuti.public.test(stu_id int,stu_name varchar(20),age int)",Failure,"com.snowflake.client.jdbc.SnowflakeSQLException: SQL compilation error:
+Object 'STUTI.PUBLIC.TEST' already exists."
+"create table Stuti.public.test2(stu_id int,stu_name varchar(20),age int)",Success,
