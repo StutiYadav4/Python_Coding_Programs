@@ -1,0 +1,2 @@
+Paragraphs may signal when the writer changes topics
+Each paragraph may have a number of sentences, depending on the topic
